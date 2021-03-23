@@ -1,4 +1,5 @@
-# Logopicker
+# Nuxt Vuera
+A very basic setup using React components in Nuxt.
 
 ## Build Setup
 
